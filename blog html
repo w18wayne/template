@@ -1,0 +1,38 @@
+<!DOCTYPE HTML>
+<head>
+<meta name="description" content="Basic Portfolio">
+<meta name="author" content="name goes here">
+<meta charset="UTF-8">
+<link type="text/css" rel="stylesheet" href="style.css">
+<title>blog</title>
+</head>
+<body>
+	<content>
+		<header>
+		<h1>blog</h1>
+		<ul id="nav">
+			<li><a href="index.html">home</a></li>
+			<li><a href="lived.html">lived <br />experiences</a></li>
+			<li><a href="#">cultural <br />analysis</a></li>
+			<li><a href="#">formal <br />research</a></li>
+			<li><a href="#">remix</a></li>
+			<li><a href="#">course <br />retrospective</a></li>
+			<li><a href="#">blog</a></li>
+		</ul>
+		</header>
+		<main>
+			<h1></h1>
+			<p>The video was talking about the uncle Ronnie and he are gay, At first his fater did not want the gay son, He and his fater raised 
+			the world. He want to become same with his uncle Ronnie divorced. He want to terrified of losing children because he
+			is gay .The video was want our to said about love is beautiful, Everyone have the choose to love who they want to love, 
+			In that time gay love was not allowed, so it was very hard to his uncle Ronnie to flow lov with the gay. 
+			He was very said when he lose his uncle ronnie. In the structure fo the message, he want to mention about love 
+			is freedom, everyone can have right to love. This video is connected to our project one live experience project, that 
+			everyone have their experience, which was totally different,this video mention that how to said about the his family 
+			uncle Ronnie. I get the idea to write the my experience..</p>
+		</main>
+		<footer>
+		<p>&copy; 2013 [Name goes here]</p>
+		</footer>
+	</content>
+</body>	
